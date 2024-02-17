@@ -22,6 +22,4 @@
                 poste</button>
         </div>
     </form>
-
-
 @endsection
